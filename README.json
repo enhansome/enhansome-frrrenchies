@@ -1,0 +1,337 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gouvdown",
+          "description": "par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat pour ggplot et Rmarkdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-15T12:40:49Z",
+            "owner": "spyrales",
+            "repo": "gouvdown",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COGugaison",
+          "description": "par @antuki : package utile à la gestion des codes officiels géographiques (COG) dans les tables de données pour utiliser des données géographiques en historique",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-06T13:14:06Z",
+            "owner": "antuki",
+            "repo": "COGugaison",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CARTElette",
+          "description": "par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-07-03T16:24:50Z",
+            "owner": "antuki",
+            "repo": "CARTElette",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "banR",
+          "description": "par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-28T13:47:42Z",
+            "owner": "joelgombin",
+            "repo": "banR",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COGiter",
+          "description": "par @MaelTheuliere : Fonctions, données et fonds de carte pour gérer les données au territoire",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-27T08:27:35Z",
+            "owner": "MaelTheuliere",
+            "repo": "COGiter",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proustr",
+          "description": "par @ColinFay : outils pour le traitement du langage en français, et corpus de textes de Proust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-02-05T13:17:09Z",
+            "owner": "ColinFay",
+            "repo": "proustr",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fodr",
+          "description": "par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-06-27T07:29:58Z",
+            "owner": "Tutuchan",
+            "repo": "fodr",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prenoms",
+          "description": "par @ThinkR-open : les données des prénoms dans un package R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-09-12T08:52:30Z",
+            "owner": "ThinkR-open",
+            "repo": "prenoms",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BARIS",
+          "description": "par @feddelegrand7 : accéder directement aux données de data‧gouv.fr depuis R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-03-29T10:57:18Z",
+            "owner": "feddelegrand7",
+            "repo": "BARIS",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pmeasyr",
+          "description": "par @GuillaumePressiat : lire les données du PMSI dans R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-03-06T17:42:08Z",
+            "owner": "GuillaumePressiat",
+            "repo": "pmeasyr",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inseeLocalData",
+          "description": "client R pour l'API Données Locales de l'Insee.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-02-20T15:52:04Z",
+            "owner": "InseeFrLab",
+            "repo": "inseeLocalData",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nomensland",
+          "description": "par @GuillaumePressiat : nomenclatures et classifications pour le PMSI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-12T18:07:40Z",
+            "owner": "GuillaumePressiat",
+            "repo": "nomensland",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csatimer",
+          "description": "par @benjaminguinaudeau : accès aux données du temps de parole (ARCOM, ex CSA) mise en forme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-03-10T07:17:11Z",
+            "owner": "benjaminguinaudeau",
+            "repo": "csatimer",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rgeoapi",
+          "description": "par @ColinFay : un client R pour l'API Géo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-03-25T14:56:48Z",
+            "owner": "ColinFay",
+            "repo": "rgeoapi",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vacancesscolr",
+          "description": "par @Tutuchan : les données des vacances scolaires dans R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-11-27T10:37:49Z",
+            "owner": "Tutuchan",
+            "repo": "vacancesscolr",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "baacker",
+          "description": "par @Bakaniko : un package pour accéder à la base de données des accidents corporels de la circulation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-06-11T08:24:52Z",
+            "owner": "Bakaniko",
+            "repo": "baacker",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "legislatives2017",
+          "description": "par @ThinkR-open : les données des élections législatives dans un package R",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2017-08-30T15:56:42Z",
+            "owner": "ThinkR-open",
+            "repo": "legislatives2017",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lexiquer",
+          "description": "Un wrapper autour de la base de données lexicale Lexique 3.81.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-11-13T17:17:34Z",
+            "owner": "ColinFay",
+            "repo": "lexiquer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "entreprises",
+          "description": "par @pachevalier : accéder aux données des entreprises",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-03-10T12:41:34Z",
+            "owner": "pachevalier",
+            "repo": "entreprises",
+            "stars": 0
+          }
+        }
+      ],
+      "title": ":package: Packages :package:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Le text-mining expliqué à ma grand mère",
+          "description": "@ColinFay, Meetup du Breizh Data Club",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-07-14T13:38:29Z",
+            "owner": "ColinFay",
+            "repo": "conf",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Les API, un enfeR ?",
+          "description": "@ColinFay, Rencontres R 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-07-14T13:38:29Z",
+            "owner": "ColinFay",
+            "repo": "conf",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Les SIG et la cartographie avec R - Rencontres R (FR)",
+          "description": "@statnmap, Rencontres R 2018, Rennes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-25T14:27:48Z",
+            "owner": "statnmap",
+            "repo": "prez",
+            "stars": 21
+          }
+        }
+      ],
+      "title": ":scroll: Slides de conférences :scroll:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":speech_balloon: Entraide et échanges :speech_balloon:"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:31:00.513Z",
+    "original_repository": "frrrenchies/frrrenchies",
+    "original_repository_sha": "d062686a5c043564821542b2245dabf9db0d5e9f",
+    "enhanced_repository": "enhansome/enhansome-frrrenchies",
+    "enhanced_repository_description": null,
+    "title": "Awesome :rooster: frrrenchies :rooster: with stars"
+  }
+}
