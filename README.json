@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258241802,
             "language": "R",
             "last_commit": "2025-09-15T12:40:49Z",
             "owner": "spyrales",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81748111,
             "language": "HTML",
             "last_commit": "2025-07-06T13:14:06Z",
             "owner": "antuki",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122788403,
             "language": "R",
             "last_commit": "2024-07-03T16:24:50Z",
             "owner": "antuki",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59700438,
             "language": "HTML",
             "last_commit": "2025-11-28T13:47:42Z",
             "owner": "joelgombin",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151634860,
             "language": "R",
             "last_commit": "2026-04-27T08:27:35Z",
             "owner": "MaelTheuliere",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93385515,
             "language": "R",
             "last_commit": "2019-02-05T13:17:09Z",
             "owner": "ColinFay",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59779584,
             "language": "R",
             "last_commit": "2019-06-27T07:29:58Z",
             "owner": "Tutuchan",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84856429,
             "language": "R",
             "last_commit": "2023-09-12T08:52:30Z",
             "owner": "ThinkR-open",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236185652,
             "language": "R",
             "last_commit": "2023-03-29T10:57:18Z",
             "owner": "feddelegrand7",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79463991,
             "language": "R",
             "last_commit": "2026-03-06T17:42:08Z",
             "owner": "GuillaumePressiat",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320851117,
             "language": "R",
             "last_commit": "2026-02-20T15:52:04Z",
             "owner": "InseeFrLab",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129752444,
             "language": "Jupyter Notebook",
             "last_commit": "2026-04-12T18:07:40Z",
             "owner": "GuillaumePressiat",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436704982,
             "language": "R",
             "last_commit": "2022-03-10T07:17:11Z",
             "owner": "benjaminguinaudeau",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60119593,
             "language": "R",
             "last_commit": "2019-03-25T14:56:48Z",
             "owner": "ColinFay",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151433033,
             "language": "R",
             "last_commit": "2019-11-27T10:37:49Z",
             "owner": "Tutuchan",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243500012,
             "language": "R",
             "last_commit": "2020-06-11T08:24:52Z",
             "owner": "Bakaniko",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94094184,
             "language": "R",
             "last_commit": "2017-08-30T15:56:42Z",
             "owner": "ThinkR-open",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105935094,
             "language": "R",
             "last_commit": "2017-11-13T17:17:34Z",
             "owner": "ColinFay",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159800544,
             "language": "R",
             "last_commit": "2020-03-10T12:41:34Z",
             "owner": "pachevalier",
@@ -273,62 +292,68 @@
       "title": ":package: Packages :package:"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Le text-mining expliqué à ma grand mère",
-          "description": "@ColinFay, Meetup du Breizh Data Club",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2018-07-14T13:38:29Z",
-            "owner": "ColinFay",
-            "repo": "conf",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Les API, un enfeR ?",
-          "description": "@ColinFay, Rencontres R 2017",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2018-07-14T13:38:29Z",
-            "owner": "ColinFay",
-            "repo": "conf",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Les SIG et la cartographie avec R - Rencontres R (FR)",
-          "description": "@statnmap, Rencontres R 2018, Rennes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-25T14:27:48Z",
-            "owner": "statnmap",
-            "repo": "prez",
-            "stars": 21
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Le text-mining expliqué à ma grand mère",
+              "description": "@ColinFay, Meetup du Breizh Data Club",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84736967,
+                "language": "R",
+                "last_commit": "2018-07-14T13:38:29Z",
+                "owner": "ColinFay",
+                "repo": "conf",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Les API, un enfeR ?",
+              "description": "@ColinFay, Rencontres R 2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84736967,
+                "language": "R",
+                "last_commit": "2018-07-14T13:38:29Z",
+                "owner": "ColinFay",
+                "repo": "conf",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Les SIG et la cartographie avec R - Rencontres R (FR)",
+              "description": "@statnmap, Rencontres R 2018, Rennes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139955135,
+                "language": null,
+                "last_commit": "2024-01-25T14:27:48Z",
+                "owner": "statnmap",
+                "repo": "prez",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":scroll: Slides de conférences :scroll:"
         }
       ],
-      "title": ":scroll: Slides de conférences :scroll:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":speech_balloon: Entraide et échanges :speech_balloon:"
+      "title": ":books: Ressources pédagogiques :books:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:10:07.036Z",
+    "last_updated": "2026-08-19T12:28:43.390Z",
     "original_repository": "frrrenchies/frrrenchies",
+    "original_repository_id": 125244702,
     "original_repository_sha": "d062686a5c043564821542b2245dabf9db0d5e9f",
     "enhanced_repository": "enhansome/enhansome-frrrenchies",
     "enhanced_repository_description": null,
