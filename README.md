@@ -8,7 +8,7 @@ N'hésitez pas à contribuer !
 
 ## :package: Packages :package:
 
-* [gouvdown](https://github.com/spyrales/gouvdown) ⭐ 54 | 🐛 27 | 🌐 R | 📅 2025-09-15 par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat pour ggplot et Rmarkdown.
+* [gouvdown](https://github.com/spyrales/gouvdown) ⭐ 55 | 🐛 27 | 🌐 R | 📅 2025-09-15 par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat pour ggplot et Rmarkdown.
 * [COGugaison](https://github.com/antuki/COGugaison) ⭐ 48 | 🐛 2 | 🌐 HTML | 📅 2025-07-06 par @antuki : package utile à la gestion des codes officiels géographiques (COG) dans les tables de données pour utiliser des données géographiques en historique
 * [CARTElette](https://github.com/antuki/CARTElette) ⭐ 31 | 🐛 3 | 🌐 R | 📅 2024-07-03 par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
 * [banR](https://github.com/joelgombin/banR) ⭐ 29 | 🐛 4 | 🌐 HTML | 📅 2025-11-28 par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale
@@ -147,4 +147,4 @@ Autres ressources pédagogiques :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
