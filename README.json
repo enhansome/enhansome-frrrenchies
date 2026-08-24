@@ -295,6 +295,43 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Les données spatiales avec R",
+          "description": "par @MaelTheuliere, support de cours sur l'analyse spatiale avec R et sf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169355245,
+            "language": "HTML",
+            "last_commit": "2021-01-15T06:41:10Z",
+            "owner": "MaelTheuliere",
+            "repo": "rspatial",
+            "stars": 6
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "r-init",
+              "description": ", r-perf et r-dev support des formations R données à l'Insee par @martinchevalier",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135721580,
+                "language": "TeX",
+                "last_commit": "2018-06-26T13:30:45Z",
+                "owner": "martinchevalier",
+                "repo": "r_dev",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Cours hébergés par France université numérique :\nCours sur DataCamp :\nCours sur OpenClassRoom :\nCours sur fun-mooc :\nAutres ressources pédagogiques :",
+          "node_type": "group",
+          "title": ":mortar_board: Cours en ligne :mortar_board:"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -351,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:02:28.886Z",
+    "last_updated": "2026-08-24T14:40:13.870Z",
     "original_repository": "frrrenchies/frrrenchies",
     "original_repository_id": 125244702,
     "original_repository_sha": "d062686a5c043564821542b2245dabf9db0d5e9f",

@@ -34,6 +34,7 @@ N'hésitez pas à contribuer !
 
 ## :books: Ressources pédagogiques :books:
 
+* [Les données spatiales avec R](https://github.com/MaelTheuliere/rspatial) ⭐ 6 | 🐛 2 | 🌐 HTML | 📅 2021-01-15 par @MaelTheuliere, support de cours sur l'analyse spatiale avec R et sf
 * [Introduction à R et au tidyverse](https://juba.github.io/tidyverse/) par @juba
 * [Logiciel R et programmation](http://egallic.fr/Enseignement/R/m1_stat_eco_logiciel_R.pdf) par @3wen
 * [Programmer en R](https://fr.wikibooks.org/wiki/Programmer_en_R), wikibook collaboratif (licence CC-BY-SA)
@@ -47,7 +48,6 @@ N'hésitez pas à contribuer !
 * [Se former au logiciel R : initiation et perfectionnement](https://myrbookfr.netlify.com/), François Rebaudo, 2019-02-13.
 * [Le grimoire statistique : Contes et stats R](http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html) par @lvaudor
 * [UtilitR](https://www.utilitr.org/) manuel de R par les agents de l'Insee
-* [Les données spatiales avec R](https://github.com/MaelTheuliere/rspatial) ⭐ 6 | 🐛 2 | 🌐 HTML | 📅 2021-01-15 par @MaelTheuliere, support de cours sur l'analyse spatiale avec R et sf
 * [Contes et stats R](http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html#pourquoi-ce-livre) par Lise Vaudor
 
 ### :mortar\_board: Cours en ligne :mortar\_board:
@@ -147,4 +147,4 @@ Autres ressources pédagogiques :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
