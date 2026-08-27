@@ -388,9 +388,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:17:14.187Z",
-    "original_repository": "frrrenchies/frrrenchies",
-    "original_repository_id": 125244702,
+    "last_updated": "2026-08-27T11:38:30.244Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 125244702,
+      "language": null,
+      "last_commit": "2023-04-03T08:35:49Z",
+      "owner": "frrrenchies",
+      "repo": "frrrenchies",
+      "stars": 137
+    },
     "original_repository_sha": "d062686a5c043564821542b2245dabf9db0d5e9f",
     "enhanced_repository": "enhansome/enhansome-frrrenchies",
     "enhanced_repository_description": null,
