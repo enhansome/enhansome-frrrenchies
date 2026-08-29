@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "French government design system for R Markdown",
+            "homepage": "https://spyrales.github.io/gouvdown/",
             "id": 258241802,
             "language": "R",
+            "license": "EUPL-1.2",
             "last_commit": "2025-09-15T12:40:49Z",
+            "open_issues": 27,
             "owner": "spyrales",
             "repo": "gouvdown",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "dsfr",
+              "ggplot2-theme",
+              "programme10pourcent",
+              "r",
+              "rmarkdown"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package R utile à la gestion des codes officiels géographiques (COG) dans les tables de données géographiques. Dernier millésime : 2025",
+            "homepage": "http://antuki.github.io/COGugaison",
             "id": 81748111,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-06T13:14:06Z",
+            "open_issues": 2,
             "owner": "antuki",
             "repo": "COGugaison",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN. Dernier millésime : 2024 ",
+            "homepage": "http://antuki.github.io/CARTElette",
             "id": 122788403,
             "language": "R",
+            "license": null,
             "last_commit": "2024-07-03T16:24:50Z",
+            "open_issues": 3,
             "owner": "antuki",
             "repo": "CARTElette",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -58,12 +79,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R client for the BAN API",
+            "homepage": "http://joelgombin.github.io/banR/",
             "id": 59700438,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-11-28T13:47:42Z",
+            "open_issues": 4,
             "owner": "joelgombin",
             "repo": "banR",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "adresses",
+              "ban",
+              "ban-api",
+              "bano",
+              "geocode",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -74,12 +107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fonctions, données et fonds de carte pour gérer les données au territoire ",
+            "homepage": "https://maeltheuliere.github.io/COGiter/",
             "id": 151634860,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-27T08:27:35Z",
+            "open_issues": 10,
             "owner": "MaelTheuliere",
             "repo": "COGiter",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -90,12 +128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for Natural Language Processing in French and texts from Marcel Proust's collection \"A La Recherche Du Temps Perdu\"",
+            "homepage": "http://proustr.colinfay.me/",
             "id": 93385515,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-05T13:17:09Z",
+            "open_issues": 10,
             "owner": "ColinFay",
             "repo": "proustr",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -106,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R package to access French Open Data portals",
+            "homepage": null,
             "id": 59779584,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2019-06-27T07:29:58Z",
+            "open_issues": 3,
             "owner": "Tutuchan",
             "repo": "fodr",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -122,12 +170,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "French Baby Names 1900-2020",
+            "homepage": null,
             "id": 84856429,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-12T08:52:30Z",
+            "open_issues": 1,
             "owner": "ThinkR-open",
             "repo": "prenoms",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "dataset",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -138,12 +194,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use the French Open Data Portal API features from R ",
+            "homepage": null,
             "id": 236185652,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-29T10:57:18Z",
+            "open_issues": 1,
             "owner": "feddelegrand7",
             "repo": "BARIS",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "api",
+              "data",
+              "datagouvfr",
+              "dataportal",
+              "france",
+              "french",
+              "r",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -154,12 +224,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ce package R a été conçu pour faciliter la lecture, le chargement et l'exploitation des données du PMSI.",
+            "homepage": "https://guillaumepressiat.github.io/pmeasyr",
             "id": 79463991,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2026-03-06T17:42:08Z",
+            "open_issues": 6,
             "owner": "GuillaumePressiat",
             "repo": "pmeasyr",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "had",
+              "mco",
+              "pmsi",
+              "psy",
+              "r",
+              "ssr"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -170,12 +252,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R client for the local data Insee's API available at https://api.insee.fr",
+            "homepage": null,
             "id": 320851117,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-20T15:52:04Z",
+            "open_issues": 6,
             "owner": "InseeFrLab",
             "repo": "inseeLocalData",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "api-client",
+              "insee",
+              "open-data",
+              "open-datasets",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -186,12 +279,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package contenant des nomenclatures et classifications pour le pmsi",
+            "homepage": "https://guillaumepressiat.github.io/nomensland/index.html",
             "id": 129752444,
             "language": "Jupyter Notebook",
+            "license": "Unlicense",
             "last_commit": "2026-04-12T18:07:40Z",
+            "open_issues": 1,
             "owner": "GuillaumePressiat",
             "repo": "nomensland",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ccam",
+              "cim",
+              "csarr",
+              "ghm",
+              "ghs",
+              "lpp",
+              "pmsi",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -202,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 436704982,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-10T07:17:11Z",
+            "open_issues": 0,
             "owner": "benjaminguinaudeau",
             "repo": "csatimer",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -218,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package requests informations from the french GéoAPI inside R — https://api.gouv.fr/api/geoapi.html",
+            "homepage": null,
             "id": 60119593,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2019-03-25T14:56:48Z",
+            "open_issues": 2,
             "owner": "ColinFay",
             "repo": "rgeoapi",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -234,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Vacances scolaires en France pour R",
+            "homepage": "https://tutuchan.github.io/vacancesscolr/",
             "id": 151433033,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2019-11-27T10:37:49Z",
+            "open_issues": 1,
             "owner": "Tutuchan",
             "repo": "vacancesscolr",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -250,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 243500012,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-11T08:24:52Z",
+            "open_issues": 1,
             "owner": "Bakaniko",
             "repo": "baacker",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -266,12 +393,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Résultat des elections legislatives 2017",
+            "homepage": null,
             "id": 94094184,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-30T15:56:42Z",
+            "open_issues": 1,
             "owner": "ThinkR-open",
             "repo": "legislatives2017",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -282,12 +414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access Lexique3.81, a Natural Language Processing Database for French",
+            "homepage": null,
             "id": 105935094,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2017-11-13T17:17:34Z",
+            "open_issues": 0,
             "owner": "ColinFay",
             "repo": "lexiquer",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -298,12 +435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R client to the open sirene API",
+            "homepage": "https://pachevalier.github.io/entreprises/",
             "id": 159800544,
             "language": "R",
+            "license": null,
             "last_commit": "2020-03-10T12:41:34Z",
+            "open_issues": 0,
             "owner": "pachevalier",
             "repo": "entreprises",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         }
@@ -320,12 +462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support pour le cours d'analyse spatiale du CNAM",
+            "homepage": null,
             "id": 169355245,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-15T06:41:10Z",
+            "open_issues": 2,
             "owner": "MaelTheuliere",
             "repo": "rspatial",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.336Z"
         },
@@ -338,12 +485,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package development with RStudio and git",
+                "homepage": null,
                 "id": 135721580,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2018-06-26T13:30:45Z",
+                "open_issues": 0,
                 "owner": "martinchevalier",
                 "repo": "r_dev",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "french",
+                  "git",
+                  "r",
+                  "rstudio",
+                  "training"
+                ]
               },
               "first_seen": "2026-08-28T04:54:49.336Z"
             }
@@ -361,12 +519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides from various conferences",
+                "homepage": null,
                 "id": 84736967,
                 "language": "R",
+                "license": null,
                 "last_commit": "2018-07-14T13:38:29Z",
+                "open_issues": 1,
                 "owner": "ColinFay",
                 "repo": "conf",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:54:49.336Z"
             },
@@ -377,12 +540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides from various conferences",
+                "homepage": null,
                 "id": 84736967,
                 "language": "R",
+                "license": null,
                 "last_commit": "2018-07-14T13:38:29Z",
+                "open_issues": 1,
                 "owner": "ColinFay",
                 "repo": "conf",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:54:49.336Z"
             },
@@ -393,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My presentations",
+                "homepage": null,
                 "id": 139955135,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-01-25T14:27:48Z",
+                "open_issues": 0,
                 "owner": "statnmap",
                 "repo": "prez",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:54:49.336Z"
             }
@@ -412,15 +585,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:31.742Z",
+    "last_updated": "2026-08-29T04:56:25.714Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Liste de ressources R utiles pour les Français",
+      "homepage": "https://frrrenchies.github.io/frrrenchies/",
       "id": 125244702,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2023-04-03T08:35:49Z",
+      "open_issues": 5,
       "owner": "frrrenchies",
       "repo": "frrrenchies",
-      "stars": 137
+      "stars": 137,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "france",
+        "frrrenchies",
+        "opendata",
+        "r"
+      ]
     },
     "original_repository_sha": "d062686a5c043564821542b2245dabf9db0d5e9f",
     "enhanced_repository": "enhansome/enhansome-frrrenchies",
