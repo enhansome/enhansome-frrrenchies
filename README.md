@@ -13,7 +13,7 @@ N'hésitez pas à contribuer !
 * [CARTElette](https://github.com/antuki/CARTElette) ⭐ 31 | 🐛 3 | 🌐 R | 📅 2024-07-03 par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
 * [banR](https://github.com/joelgombin/banR) ⭐ 29 | 🐛 4 | 🌐 HTML | 📅 2025-11-28 par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale
 * [COGiter](https://github.com/MaelTheuliere/COGiter) ⭐ 24 | 🐛 10 | 🌐 R | 📅 2026-04-27 par @MaelTheuliere : Fonctions, données et fonds de carte pour gérer les données au territoire
-* [proustr](https://github.com/ColinFay/proustr) ⭐ 24 | 🐛 10 | 🌐 R | 📅 2019-02-05 par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
+* [proustr](https://github.com/ColinFay/proustr) ⭐ 24 | 🐛 10 | 🌐 R | 📅 2026-09-03 par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
 * [fodr](https://github.com/Tutuchan/fodr) ⭐ 23 | 🐛 3 | 🌐 R | 📅 2019-06-27 par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français
 * [prenoms](https://github.com/ThinkR-open/prenoms) ⭐ 23 | 🐛 1 | 🌐 R | 📅 2023-09-12 par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
 * [BARIS](https://github.com/feddelegrand7/BARIS) ⭐ 22 | 🐛 1 | 🌐 R | 📅 2023-03-29 par @feddelegrand7 : accéder directement aux données de data‧gouv.fr depuis R
@@ -147,4 +147,4 @@ Autres ressources pédagogiques :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
