@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:50:55.099Z",
+    "last_updated": "2026-09-04T22:34:20.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "Liste de ressources R utiles pour les Français",
@@ -597,7 +597,7 @@
       "open_issues": 5,
       "owner": "frrrenchies",
       "repo": "frrrenchies",
-      "stars": 137,
+      "stars": 138,
       "topics": [
         "awesome",
         "awesome-list",
