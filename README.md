@@ -17,7 +17,7 @@ N'hésitez pas à contribuer !
 * [fodr](https://github.com/Tutuchan/fodr) ⭐ 23 | 🐛 3 | 🌐 R | 📅 2019-06-27 par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français
 * [prenoms](https://github.com/ThinkR-open/prenoms) ⭐ 23 | 🐛 1 | 🌐 R | 📅 2023-09-12 par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
 * [BARIS](https://github.com/feddelegrand7/BARIS) ⭐ 22 | 🐛 1 | 🌐 R | 📅 2023-03-29 par @feddelegrand7 : accéder directement aux données de data‧gouv.fr depuis R
-* [pmeasyr](https://github.com/IM-APHP/pmeasyr) ⭐ 22 | 🐛 6 | 🌐 R | 📅 2026-03-06 par  @GuillaumePressiat : lire les données du PMSI dans R
+* [pmeasyr](https://github.com/IM-APHP/pmeasyr) ⭐ 22 | 🐛 6 | 🌐 R | 📅 2026-10-02 par  @GuillaumePressiat : lire les données du PMSI dans R
 * [inseeLocalData](https://github.com/InseeFrLab/inseeLocalData) ⭐ 16 | 🐛 6 | 🌐 R | 📅 2026-02-20 : client R pour l'[API Données Locales](https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=DonneesLocales\&version=V0.1\&provider=insee) de l'Insee.
 * [nomensland](https://github.com/GuillaumePressiat/nomensland) ⭐ 13 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-12 par @GuillaumePressiat : nomenclatures et classifications pour le [PMSI](https://fr.wikipedia.org/wiki/Programme_de_m%C3%A9dicalisation_des_syst%C3%A8mes_d%27information)
 * [csatimer](https://github.com/benjaminguinaudeau/csatimer) ⭐ 12 | 🐛 0 | 🌐 R | 📅 2022-03-10 par @benjaminguinaudeau : accès aux données du temps de parole (ARCOM, ex CSA) mise en forme.
@@ -147,4 +147,4 @@ Autres ressources pédagogiques :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

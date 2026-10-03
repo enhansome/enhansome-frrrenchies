@@ -229,7 +229,7 @@
             "id": 79463991,
             "language": "R",
             "license": "GPL-2.0",
-            "last_commit": "2026-03-06T17:42:08Z",
+            "last_commit": "2026-10-02T09:22:35Z",
             "open_issues": 6,
             "owner": "GuillaumePressiat",
             "repo": "pmeasyr",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:16:06.213Z",
+    "last_updated": "2026-10-03T00:00:59.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "Liste de ressources R utiles pour les Français",
