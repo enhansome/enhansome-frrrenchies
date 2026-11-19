@@ -16,7 +16,7 @@
             "language": "R",
             "license": "EUPL-1.2",
             "last_commit": "2025-09-15T12:40:49Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "spyrales",
             "repo": "gouvdown",
             "stars": 56,
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:37:49.837Z",
+    "last_updated": "2026-11-19T02:03:35.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Liste de ressources R utiles pour les Français",
